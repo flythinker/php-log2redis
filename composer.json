@@ -13,6 +13,11 @@
             "email": "yipenghuang@hotmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "flythinker\\log2redis\\": "src"
+        }
+    },
     "minimum-stability": "dev", 
     "require": {
         "php" : ">=7.0.10",
