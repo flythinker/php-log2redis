@@ -1,0 +1,21 @@
+{
+    "name": "flythinker/log2redis",
+    "description": "log to redis",
+    "type": "library",
+    "keywords": [
+        "log",
+        "redis"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "flythinker",
+            "email": "yipenghuang@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev", 
+    "require": {
+        "php" : ">=7.0.10",
+        "ext-mbstring" : "*"
+    }
+}
